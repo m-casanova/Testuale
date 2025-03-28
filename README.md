@@ -1,4 +1,5 @@
 # Testuale
+- Versione 1.111: modifiche minori e correzione gruppo _Qu_
 - Versione 1.107: modifiche minori e aggiunta delle versioni statiche
 - Versione 1.105: modifica di alcune legature della lettera _f_
 - Versione 1.101: aggiunta di alcune caratteristiche
